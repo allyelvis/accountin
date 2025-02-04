@@ -12,7 +12,7 @@
     "balanced-match": "^1.0.2",
     "bluebird": "^3.7.2",
     "brace-expansion": "^1.1.11",
-    "concat-map": "^0.0.1",
+    "concat-map": "^0.0.2",
     "content-disposition": "^0.5.4",
     "content-type": "^1.0.5",
     "cookie": "^0.6.0",
